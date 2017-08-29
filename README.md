@@ -1,4 +1,4 @@
-# Teste dendextend shinyio
+# Teste dendextend on shinyio
 
-Script to test the dendextend package on shyniio server.
+Script to test the dendextend R package on shyniio web server.
 The video with the test can be accessed at: https://youtu.be/15ZH7uAHUmA
